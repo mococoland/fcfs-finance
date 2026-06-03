@@ -3,6 +3,14 @@
     {
       "dir": "example",
       "status": "pending"
+    },
+    {
+      "dir": "fcfs-core",
+      "status": "pending"
+    },
+    {
+      "dir": "fcfs-ops",
+      "status": "pending"
     }
   ]
 }

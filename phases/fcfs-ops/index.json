@@ -1,0 +1,9 @@
+{
+  "project": "FCFS Finance",
+  "phase": "fcfs-ops",
+  "steps": [
+    { "step": 0, "name": "resilience-observability", "status": "pending" },
+    { "step": 1, "name": "load-test", "status": "pending" },
+    { "step": 2, "name": "demo-ui-and-portfolio", "status": "pending" }
+  ]
+}

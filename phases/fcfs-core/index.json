@@ -1,0 +1,14 @@
+{
+  "project": "FCFS Finance",
+  "phase": "fcfs-core",
+  "steps": [
+    { "step": 0, "name": "project-setup", "status": "pending" },
+    { "step": 1, "name": "common-infra", "status": "pending" },
+    { "step": 2, "name": "domain-persistence", "status": "pending" },
+    { "step": 3, "name": "auth", "status": "pending" },
+    { "step": 4, "name": "product-query-cache", "status": "pending" },
+    { "step": 5, "name": "stock-warming", "status": "pending" },
+    { "step": 6, "name": "fcfs-core", "status": "pending" },
+    { "step": 7, "name": "queue-consumer", "status": "pending" }
+  ]
+}
